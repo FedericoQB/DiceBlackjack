@@ -308,16 +308,27 @@
                 else
                 {
                     Console.WriteLine("You lost your money, win it back again or lose it even more");
-                    if (money < 0)
+                    if (money < 1)
                     {
+                        Console.ForegroundColor = ConsoleColor.Red;
+
                         Console.WriteLine("You have bet more than you have, you have also been kicked and banned for life");
+
+                        Console.ResetColor();
                         break;
                     }
                 }
                 Console.WriteLine("Your money in total: " + money);
 
+                Console.ForegroundColor = ConsoleColor.Cyan;
+
                 Console.WriteLine("Wanna play again?");
                 play = Console.ReadLine();
+
+                Console.WriteLine("");
+                Console.ResetColor();
+
+                // Resets each value for next round
                 playerPoints = 0;
                 dealerPoints = 0;
                 dealeranswer = 0;
