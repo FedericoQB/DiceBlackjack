@@ -1,0 +1,14 @@
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\bin\Debug\net8.0\DiceBlackjack.exe
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\bin\Debug\net8.0\DiceBlackjack.deps.json
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\bin\Debug\net8.0\DiceBlackjack.runtimeconfig.json
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\bin\Debug\net8.0\DiceBlackjack.dll
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\bin\Debug\net8.0\DiceBlackjack.pdb
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.AssemblyInfoInputs.cache
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.AssemblyInfo.cs
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.csproj.CoreCompileInputs.cache
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.dll
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\refint\DiceBlackjack.dll
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.pdb
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.genruntimeconfig.cache
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\ref\DiceBlackjack.dll
