@@ -12,3 +12,4 @@ C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjac
 C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.pdb
 C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.genruntimeconfig.cache
 C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\ref\DiceBlackjack.dll
+C:\Users\federico.quijanobar\Documents\Programmering1\DiceBlackjack\DiceBlackjack\obj\Debug\net8.0\DiceBlackjack.sourcelink.json
