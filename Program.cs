@@ -87,7 +87,6 @@
                         // If player hit, run this while loop
                         do
                         {
-                            // Variables
                             // Dice Throw Variable
                             Random rand = new Random();
                             int playerCard = rand.Next(1, 14);
