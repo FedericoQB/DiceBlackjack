@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceBlackjack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44377e1cc5f615370f41f19a6e542e17e41fe86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2431a81ce382faa8fcda90d870d2acd70a16c557")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceBlackjack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceBlackjack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
