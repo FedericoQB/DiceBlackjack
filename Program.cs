@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Open region to see variables
+            // Open region to see variables and to see if the github desktop
             #region Variables
             int dealeranswer = 0;
             int playerPoints = 0;
